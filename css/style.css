@@ -50,6 +50,9 @@ h1{
     font-size: 36px;
 
 }
+a{
+    text-decoration: none;
+}
 h2{
     margin: 0 0 5px;
     font-size: 28px;
